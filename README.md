@@ -2,7 +2,7 @@
 
 A lightweight macOS menu bar utility that lets you drag any window from anywhere by holding a modifier key.
 
-[![Download on Gumroad](https://img.shields.io/badge/Download-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=white)](https://felipemendes.gumroad.com/l/drag-buddy)
+[![Download on Gumroad](https://img.shields.io/badge/Download-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=white)](https://felipermendes.gumroad.com/l/drag-buddy)
 
 ## Features
 
@@ -20,7 +20,7 @@ A lightweight macOS menu bar utility that lets you drag any window from anywhere
 
 ## Installation
 
-1. Download Drag Buddy from [Gumroad](https://felipemendes.gumroad.com/l/drag-buddy)
+1. Download Drag Buddy from [Gumroad](https://felipermendes.gumroad.com/l/drag-buddy)
 2. Move the app to your Applications folder
 3. Launch Drag Buddy
 4. Grant Accessibility permission when prompted (required for window dragging to work)
@@ -63,7 +63,7 @@ Please [open an issue](../../issues/new/choose) if you encounter any problems or
 
 ## Links
 
-- [Download on Gumroad](https://felipemendes.gumroad.com/l/drag-buddy)
+- [Download on Gumroad](https://felipermendes.gumroad.com/l/drag-buddy)
 - [Changelog](CHANGELOG.md)
 
 ## License
